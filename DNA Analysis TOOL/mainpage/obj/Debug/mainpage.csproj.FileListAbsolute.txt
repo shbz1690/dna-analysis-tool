@@ -1,0 +1,12 @@
+C:\Users\v-mokh\Desktop\dna\mainpage\mainpage\bin\Debug\mainpage.exe.config
+C:\Users\v-mokh\Desktop\dna\mainpage\mainpage\bin\Debug\mainpage.exe
+C:\Users\v-mokh\Desktop\dna\mainpage\mainpage\bin\Debug\mainpage.pdb
+C:\Users\v-mokh\Desktop\dna\mainpage\mainpage\obj\Debug\mainpage.csprojResolveAssemblyReference.cache
+C:\Users\v-mokh\Desktop\dna\mainpage\mainpage\obj\Debug\mainpage.Form1.resources
+C:\Users\v-mokh\Desktop\dna\mainpage\mainpage\obj\Debug\mainpage.Properties.Resources.resources
+C:\Users\v-mokh\Desktop\dna\mainpage\mainpage\obj\Debug\mainpage.csproj.GenerateResource.Cache
+C:\Users\v-mokh\Desktop\dna\mainpage\mainpage\obj\Debug\mainpage.exe
+C:\Users\v-mokh\Desktop\dna\mainpage\mainpage\obj\Debug\mainpage.pdb
+C:\Users\v-mokh\Desktop\dna\dna\mainpage\mainpage\bin\Debug\mainpage.exe.config
+C:\Users\v-mokh\Desktop\dna\dna\mainpage\mainpage\obj\Debug\mainpage.exe
+C:\Users\v-mokh\Desktop\dna\dna\mainpage\mainpage\obj\Debug\mainpage.pdb
